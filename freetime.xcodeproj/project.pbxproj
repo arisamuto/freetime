@@ -16,6 +16,7 @@
 		800E539822C562F200F94FDE /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800E539722C562F200F94FDE /* ResultViewController.swift */; };
 		800E539A22C5811300F94FDE /* Himawari.png in Resources */ = {isa = PBXBuildFile; fileRef = 800E539922C5811300F94FDE /* Himawari.png */; };
 		800E539C22C5815600F94FDE /* skytree.png in Resources */ = {isa = PBXBuildFile; fileRef = 800E539B22C5815600F94FDE /* skytree.png */; };
+		800E539E22C626AB00F94FDE /* 問題 in Resources */ = {isa = PBXBuildFile; fileRef = 800E539D22C626AB00F94FDE /* 問題 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		800E539722C562F200F94FDE /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		800E539922C5811300F94FDE /* Himawari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Himawari.png; sourceTree = "<group>"; };
 		800E539B22C5815600F94FDE /* skytree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skytree.png; sourceTree = "<group>"; };
+		800E539D22C626AB00F94FDE /* 問題 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "問題"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				800E538322C4CC7700F94FDE /* AppDelegate.swift */,
 				800E539722C562F200F94FDE /* ResultViewController.swift */,
 				800E539522C562D700F94FDE /* QuestionsViewController.swift */,
+				800E539D22C626AB00F94FDE /* 問題 */,
 				800E538522C4CC7700F94FDE /* ViewController.swift */,
 				800E539B22C5815600F94FDE /* skytree.png */,
 				800E539922C5811300F94FDE /* Himawari.png */,
@@ -137,6 +140,7 @@
 				800E538E22C4CC7E00F94FDE /* LaunchScreen.storyboard in Resources */,
 				800E539A22C5811300F94FDE /* Himawari.png in Resources */,
 				800E538B22C4CC7E00F94FDE /* Assets.xcassets in Resources */,
+				800E539E22C626AB00F94FDE /* 問題 in Resources */,
 				800E538922C4CC7700F94FDE /* Main.storyboard in Resources */,
 				800E539C22C5815600F94FDE /* skytree.png in Resources */,
 			);

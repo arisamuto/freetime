@@ -9,10 +9,19 @@
 import UIKit
 
 class QuestionsViewController: UIViewController {
-
+    
+    var quizArray = [[Any]] ()
+    var correctAnswer: Int = 0
+    
+    @IBOutlet var textview: UITextView!
+    @IBOutlet var choiceButtons1: UIButton!
+    @IBOutlet var choiceButtons2: UIButton!
+    @IBOutlet var choiceButtons3: UIButton!
+    @IBOutlet var choiceButtons4: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // Do any additional setup after loading the view.
     }
     
@@ -26,5 +35,7 @@ class QuestionsViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    @IBAction func ButtonCheck(_ sender: Any) {
+    }
 
 }
